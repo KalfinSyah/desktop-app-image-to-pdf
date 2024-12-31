@@ -29,7 +29,7 @@ def content(root, tk):
     info_label = tk.Label(root, text="no image selected")
     info_label.pack(pady=10, padx=10)
 
-    img = Image.open("./preview.png")
+    img = Image.open("assets/preview.png")
     img_tk = ImageTk.PhotoImage(img)
     image_label = tk.Label(root, text="no preview yet")
     image_label.config(image=img_tk)
