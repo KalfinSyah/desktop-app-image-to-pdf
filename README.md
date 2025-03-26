@@ -7,8 +7,7 @@ This desktop application allows users to easily convert images (JPEG, PNG) to PD
 Before running the application, make sure you have the following installed:
 
 - Python 3.7 or above
-- Pillow (for image processing)
-- Tkinter (for the GUI)
+- Pillow
 
 ### Install dependencies:
 
