@@ -1,6 +1,6 @@
 # Image to PDF Converter
 
-This desktop application allows users to easily convert images (JPEG, PNG) to PDF format. The application is built using Python, Tkinter, and Pillow (PIL) libraries.
+This desktop application allows users to easily convert images (JPEG, PNG) to PDF format.
 
 ## Requirements
 
@@ -18,5 +18,5 @@ pip install Pillow
 
 ### Run the app:
 ```bash
-pip python main.py
+python main.py
 ```
